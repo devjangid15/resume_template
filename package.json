@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://devjangid15.github.io/resume_template",
+  "homepage": " https://devjangid15.github.io/resume_template/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
