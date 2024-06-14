@@ -28769,7 +28769,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "Resume Template",
         description: "Created a custom resume template after making changes to source code",
-        url: "https://github.com/devjangid15/chromium-custom-build-android"
+        url: "https://devjangid15.github.io/resume_template/"
     },
     {
         title: "Dev Browser",
@@ -28777,8 +28777,8 @@ const imageAltText = "desktop with books and laptop";
         url: "https://github.com/devjangid15/chromium-custom-build-android"
     },
     {
-        title: "Fyle-FrontEnd Assignment",
-        description: "Created a frontEnd page for Fyle as an assignment.Having slider hover and slider functionality on card and tiles",
+        title: "Fyle-FrontEnd",
+        description: "Created a frontEnd page for Fyle.Having hover and slider functionality on card and tiles",
         url: "https://devjangid15.github.io/fyleassignment.com/"
     },
     {
