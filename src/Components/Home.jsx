@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/img.jpg";
 
 const imageAltText = "Dev_Jangid- C++ Developer";
 
@@ -28,7 +28,7 @@ const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
       <img className="background" src={image} alt="" />
-      <div style={{ position: "absolute", top: "7rem", left: "10rem", width: "20rem" }}>
+      <div style={{ position: "absolute", top: "10rem", left: "10rem", width: "20rem" }}>
         <h1>{name}</h1>
         <h2 style={{ marginTop: "20px", width: "34rem", fontSize: "50px" }}>{title}</h2>
       </div>
